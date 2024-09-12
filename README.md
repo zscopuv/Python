@@ -1,4 +1,4 @@
-# Python Code Samples
+# Python Code Samples | Beginner-Friendly!
 
 ## About
 This repository contains a few useful Python code samples, all coded by me. These examples can be used to better understand various coding techniques, logic flows, or even integrated into production projects as needed.
