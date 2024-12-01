@@ -20,3 +20,7 @@ The code is open for personal or commercial use, with no restrictions.
 ### 1. **Fibonacci Sequence Generator**
    - The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones. It starts with 0 and 1, and continues as follows: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, etc. Mathematically, the sequence is defined by the recurrence relation:
    - `F(n) = F(n-1) + F(n-2)`: with seed values F(0) = 0 and F(1) = 1.
+### 2. **Quadratic Equations Calculator**
+   - This program will receive as an input either coefficients of a quadratic equation and the output will be the calculated roots or roots of a quadratic equation with a=1 and the output in that case will be the standart form of the quadratic equation.
+
+
